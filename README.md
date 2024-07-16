@@ -3,8 +3,7 @@
 
 ### Hi there 👋, I am Alexander Grigoratos
 📚 I’m attending Athens University of Economics and Business  
-🔭 I’m currently working on ERP specialized on food services for enterprise use  
-🌱 I’m currently learning React, ASP.NET, AZURE, C# ,SQL  
+🔭 I’m currently working on ERP specialized on food services for enterprise use    
 📫 How to reach me: agrigorat@gmail.com
 
 ![cards](https://github.com/AlexGrigoratos/AlexGrigoratos/assets/159578904/3773870c-6e55-4554-ab2c-518cdaf28ea5)
