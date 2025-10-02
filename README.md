@@ -2,7 +2,7 @@
 <img width="791" alt="gh-header-image-cropped (5)" src="https://github.com/AlexGrigoratos/AlexGrigoratos/assets/159578904/8b80908b-6ef7-4fae-8a0d-1c4cc934d38c">
 
 ### Hi there 👋, I am Alexander Grigoratos
-📚 I’m attending Athens University of Economics and Business  
+📚 UniOut App Developer
 🔭 I’m currently working on ERP specialized on food services for enterprise use    
 📫 How to reach me: agrigorat@gmail.com
 
